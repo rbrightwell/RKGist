@@ -2,9 +2,11 @@
 
 RKGist is an example application built with [RestKit](http://github.com/RestKit/RestKit) for use in conjunction with the [Getting Acquainted with RestKit](TUTORIAL.md) tutorial.
 
-### Work in Progress
+## Work in Progress
 
 Please be advised that the tutorial is a work in progress and is incomplete but already provides a solid foundation on the basics of using RestKit. It is available in draft form to collect feedback and will be completed for the final release of RestKit v0.20.0.
+
+test line - fixed header markdown
 
 ## Contact
 
